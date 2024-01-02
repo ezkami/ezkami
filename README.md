@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ezkami
 - 👀 I’m interested in ...badminton
 - 🌱 I’m currently learning ...codes
-- 💞️ I’m looking to collaborate on ...code
+- 💞️ I’m looking to collaborate on ... myself 
 - 📫 How to reach me ...talk to me first
 
 <!---
